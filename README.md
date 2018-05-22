@@ -4,9 +4,9 @@
 # Les objectifs
 
 
-* Mettre en dialogue les différents savoir-faire de l'artisane du guatemala avec les designers textile du collectif Macocoi. 
+* Mettre en dialogue les différents savoir-faire de l'artisane du guatemala avec les designers textile du collectif Macocoï 
 
-* Echanger sur la méthodologie de travail et sur le processus de création. 
+* Echanger sur la méthodologie de travail et sur le processus de création 
 
 * Explorer les possibilités que peut apporter le numérique aux techniques artisanales et apporter une vision singulière.
 
