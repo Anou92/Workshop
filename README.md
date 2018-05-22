@@ -1,4 +1,4 @@
-# Workshop-Aj-Quen-et-Macocoi-Oxfam-OpenFab
+# Workshop-Aj-Quen-Macocoï-Oxfam-OpenFab
 
 
 # Les objectifs
