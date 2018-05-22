@@ -1,7 +1,7 @@
 # Workshop-Aj-Quen-et-Macocoi-
 
 
-#Les objectifs#
+# Les objectifs
 
 
 * Mettre en dialogue les différents savoir-faire de l'artisane du guatemala avec les designers textile du collectif Macocoi. 
