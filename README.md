@@ -3,6 +3,10 @@
 
 # Présentation
 
+Ce workshop à été réalisé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatelmathèque d'Aj Quen et en partenariat avec Oxfam et Openfab, un écosystème 100% indépendant qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. L’autogestion, le croisement des disciplines et la recherche par expérimentation sont essentiels dans ce FabLab.
+
+
+# Les objectifs
 
 * Mettre en dialogue les différents savoir-faire de l'artisane du guatemala avec les designers textile du collectif Macocoï 
 
