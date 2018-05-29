@@ -71,7 +71,7 @@ Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( 
 
 ## Machines :
 
-- métier à tisser 
+- métier à tisser
 - métier ceinture
 - découpe laser
 - Cadre à tapisserie 
