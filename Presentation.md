@@ -65,11 +65,11 @@ Une recherche ciblée sur la matière en exploitant les invendus textile d'Oxfam
 ( un travail sur la couleur, la texture, la densité, la répétition, l'assemblage). L'idée serait de réaliser pendant les 2 jours de workshop une collection de petits tapis et le 5 mai en réaliser un en plus grand.
 
 
-## Techniques :
+## Les techniques :
 
 Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( ex: couture, tressage etc..)
 
-## Machines :
+## Les machines :
 
 - métier à tisser
 - métier ceinture
@@ -77,7 +77,7 @@ Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( 
 - Cadre à tapisserie 
 - Machine à coudre
 
-## Matières
+## Les matières
 
 Matières ? Quelle type ? Quelle quantité ?
 Exploiter des chutes de matière d' Aj Quen du Guatemala et d'Oxfam Bruxelles ( mélange de matière = hybridation des deux cultures) L'idée est de récuperer différents types de vêtements pour avoir plus de possibilités.(T-shirt, pantalon, chemise)
