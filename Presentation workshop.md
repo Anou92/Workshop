@@ -1,10 +1,6 @@
 # Workshop Aj Quen et Macocoi
 
 
-
-![https://drive.google.com/drive/u/0/folders/1CE0gHF7Ob-MBfYkttFuFLAu4_AyA7VAs]
-
-
 ## Présentation
 
 Suite à la venue d'Aj Quen dans le cadre de la journée partenaire d'Oxfam en mai 2018, un workshop de recherche par expérimentation à été imaginé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatelmathèque d'Aj Quen.
