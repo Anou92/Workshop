@@ -80,7 +80,7 @@ Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( 
 ## Matières
 
 Matières ? Quelle type ? Quelle quantité ?
-Exploiter des chutes de matière d' Aj Quen du Guatemala et d'Oxfam Bruxelles ( mélange de matière = hybridation des deux cultures) Recycler des t-shirt ?
+Exploiter des chutes de matière d' Aj Quen du Guatemala et d'Oxfam Bruxelles ( mélange de matière = hybridation des deux cultures) L'idée est de récuperer différents types de vêtements pour avoir plus de possibilités.(T-shirt, pantalon, chemise)
 
 
 
