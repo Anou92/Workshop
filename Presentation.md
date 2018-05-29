@@ -29,7 +29,7 @@ Les designeuses textiles membres du collectif Macocoï :
 - Emilie Bouchez
 - Tannyna Kowalski
 - Anne-Sophie Muller
-- Anaelle Renault
+- Anaëlle Renault
 
 L'artisane textile du Guatemala :
 - Marta Lidia
@@ -41,7 +41,7 @@ L'artisan cuir et traducteur à l'occasion du workshop :
 - Paulo Andreu
 
 
-# Les objectifs
+## Les objectifs
 
 * Mettre en dialogue les différents savoir-faire de l'artisane du guatemala avec les designers textile du collectif Macocoï 
 
