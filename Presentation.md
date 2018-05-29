@@ -10,13 +10,12 @@ Plusieurs questionnements sont apparus :
 Quelle collaboration envisageable entre artisans belges et guatelmatheques?
 Comment combiner nos différents savoir-faire artisanaux et technologiques dans l'optique de créer une matière hybride, mélangeant techniques modernes et traditionnelles ?
 Qu'est ce que les uns peuvent apporter aux autres ?
+Quelles sont les attentes de l'artisane textile?
 
 ## Les dates
 
 Le workshop s'est déroulé le 3 et 4 mai 2018.
 Le 5 mai nous avons exposé les résultats du workshop lors de la slow fashion fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et taxi.
-
-
 
 ## Le lieu
 
@@ -58,4 +57,30 @@ L'artisan du cuir et traducteur à l'occasion du workshop :
 * Gagner en visibilité pour Aj quen, Macocoï, Oxfam et l'artisane 
 
 * Nourrir le positionnement d'Oxfam au niveau de l'artisanat équitable 
+
+
+## Le contenu
+
+Une recherche ciblée sur la matière en exploitant les invendus textile d'Oxfam dans l'optique de repenser le tapis. 
+( un travail sur la couleur, la texture, la densité, la répétition, l'assemblage). L'idée serait de réaliser pendant les 2 jours de workshop une collection de petits tapis et le 5 mai en réaliser un en plus grand.
+
+
+## Techniques :
+
+Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( ex: couture, tressage etc..)
+
+## Machines :
+
+- métier à tisser 
+- métier ceinture
+- découpe laser
+- Cadre à tapisserie 
+- Machine à coudre
+
+## Matières
+
+Matières ? Quelle type ? Quelle quantité ?
+Exploiter des chutes de matière d' Aj Quen du Guatemala et d'Oxfam Bruxelles ( mélange de matière = hybridation des deux cultures) Recycler des t-shirt ?
+
+
 
