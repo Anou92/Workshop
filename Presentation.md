@@ -37,7 +37,7 @@ L'artisane textile du Guatemala :
 La chargée d’étude Artisanat d’Oxfam :
 - Estelle Vanwambeke
 
-L'artisan cuir et traducteur à l'occasion du workshop :
+L'artisan du cuir et traducteur à l'occasion du workshop :
 - Paulo Andreu
 
 
