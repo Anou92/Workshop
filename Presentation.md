@@ -1,9 +1,29 @@
-# Workshop-Aj-Quen et Macocoi
+# Workshop Aj Quen et Macocoi
 
 
-# Présentation
+## Présentation
 
-Ce workshop à été réalisé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatelmathèque d'Aj Quen. Il a également pu voir le jour grâce à un partenariat avec Oxfam et Openfab : un écosystème 100% indépendant qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. L’autogestion, le croisement des disciplines et la recherche par expérimentation sont essentiels dans ce FabLab.
+Suite à la venue d'Aj Quen dans le cadre de la journée partenaire d'Oxfam en mai 2018, un workshop de recherche par expérimentation à été imaginé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatelmathèque d'Aj Quen.
+
+Plusieurs questionnements sont apparus :
+
+Quelle collaboration possible entre artisans belges et guatelmatheques?
+Comment combiner nos différents savoir-faire artisanaux et technologiques dans l'optique de créer une matière hybride, reflet de se mélange de culture et de techniques ?
+Qu'est ce que les uns peuvent apporter aux autres ?
+
+## Les dates
+
+Le workshop s'est déroulé le 3 et 4 mai 2018
+
+
+
+## Le lieu
+
+Le workshop à été réalisé au sein d'Openfab, un écosystème 100% indépendant qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. L’autogestion, le croisement des disciplines et la recherche par expérimentation sont essentiels dans ce FabLab.
+
+
+## Les participants
+
 
 
 # Les objectifs
