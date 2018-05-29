@@ -7,13 +7,14 @@ Suite à la venue d'Aj Quen dans le cadre de la journée partenaire d'Oxfam en m
 
 Plusieurs questionnements sont apparus :
 
-Quelle collaboration possible entre artisans belges et guatelmatheques?
-Comment combiner nos différents savoir-faire artisanaux et technologiques dans l'optique de créer une matière hybride, reflet de se mélange de culture et de techniques ?
+Quelle collaboration envisageable entre artisans belges et guatelmatheques?
+Comment combiner nos différents savoir-faire artisanaux et technologiques dans l'optique de créer une matière hybride, mélangeant techniques modernes et traditionnelles ?
 Qu'est ce que les uns peuvent apporter aux autres ?
 
 ## Les dates
 
-Le workshop s'est déroulé le 3 et 4 mai 2018
+Le workshop s'est déroulé le 3 et 4 mai 2018.
+Le 5 mai nous avons exposé les résultats du workshop lors de la slow fashion fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et taxi.
 
 
 
@@ -24,6 +25,20 @@ Le workshop à été réalisé au sein d'Openfab, un écosystème 100% indépend
 
 ## Les participants
 
+Les designeuses textiles membres du collectif Macocoï :
+- Emilie Bouchez
+- Tannyna Kowalski
+- Anne-Sophie Muller
+- Anaelle Renault
+
+L'artisane textile du Guatemala :
+- Marta Lidia
+
+La chargée d’étude Artisanat d’Oxfam :
+- Estelle Vanwambeke
+
+L'artisan cuir et traducteur à l'occasion du workshop :
+- Paulo Andreu
 
 
 # Les objectifs
