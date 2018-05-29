@@ -1,5 +1,6 @@
 # Workshop Aj Quen et Macocoi
 
+<img src="/DSC_0314.JPG.png"/>
 
 ## Présentation
 
