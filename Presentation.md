@@ -65,11 +65,11 @@ Une recherche ciblée sur la matière en exploitant les invendus textile d'Oxfam
 ( un travail sur la couleur, la texture, la densité, la répétition, l'assemblage). L'idée serait de réaliser pendant les 2 jours de workshop une collection de petits tapis et le 5 mai en réaliser un en plus grand.
 
 
-## Les techniques :
+## Les techniques 
 
 Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( ex: couture, tressage etc..)
 
-## Les machines :
+## Les machines 
 
 - métier à tisser
 - métier ceinture
