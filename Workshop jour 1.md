@@ -27,10 +27,9 @@ Marta Lidia travaille pour Aj Quen : une fédération d'artisanes basé au Guate
 ### Présentation des savoir-faire de Marta Lidia
 
 Le tissage est la technique de prédilection de Marta Lidia. C'est sa mère qui lui a transmis ce savoir-faire.
-
 Elle utilise deux types de métier à tisser :
-le métier ceinture
-le métier à  2 cadres et 2 pédales ( une personne débout qui lève les cadres et une autre personne qui appuie sur les pédales)
+* le métier ceinture
+* le métier à  2 cadres et 2 pédales ( une personne débout qui lève les cadres et une autre personne qui appuie sur les pédales)
 
 Elle sait aussi faire du crochet.
 
