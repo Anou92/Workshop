@@ -61,8 +61,8 @@ Le commerce local s'est développé mais il s'adresse seulement aux touristes ca
 ### Création d'un moonboard d'inspiration
 
 
-Mise en commun, et discussion des références de chacun autour de l'idée du tapis
-Classification des références par technique de fabrication et création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
+Mise en commun, et discussion des références de chacun autour de l'idée du tapis.
+Classification des références par technique de fabrication :
 
 * Volume/pompom
 * Modules/Assembler
@@ -75,6 +75,8 @@ Classification des références par technique de fabrication et création d'un m
 * Forme/couleur
 * Broderie
 * Noeuds
+
+Ensuite création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
 
 
 
