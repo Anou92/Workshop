@@ -133,6 +133,9 @@ Notre combinaison des tissus s'est faite en fonction des couleurs et des motifs 
 
 ### Contrecollage des matières
 
+![img_6759](https://user-images.githubusercontent.com/29283755/40732213-1c0fe0b8-6433-11e8-9803-58470d77923e.JPG)
+
+
 
 
 
