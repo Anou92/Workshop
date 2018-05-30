@@ -27,6 +27,8 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 * Nous avons pu observer que les bandes de 1 cm sont trop fines et le tressage est trop aéré.
 * D'autre part jouer avec 2 largeur de bandes permet de créer un jeu graphique.
 
+![dsc_0314](https://user-images.githubusercontent.com/29283755/40733830-f12f2508-6436-11e8-98b0-ce740b471e21.JPG)
+
 
 
 ### Prototype 2
