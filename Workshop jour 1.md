@@ -41,7 +41,7 @@ Elle sait aussi faire du crochet.
 
 Dans la culture Guatémaltèque, la nature est une réelle source d'inspiration. Elle est représentée par des oiseaux, des fleurs. Le zigzag, l'éclair, le triangle, les rayures et le losange sont aussi des motifs que l'on retrouve fortement dans les tissus du Guatemala. Les motifs se modernisent mais la symbolique reste la même.
 
-### Les matières
+### Les matières utilisées au Guatémala
 
 Les textiles guatemalthèques sont tissés à partir de fils de coton produits au Guatemala.
 Il y a trois types de fils de coton :
@@ -52,9 +52,30 @@ Il y a trois types de fils de coton :
 Le commerce local s'est développé mais il s'adresse seulement aux touristes car les objets présentés sont trop cher pour être achetés par des locaux en raison de l'utilisation du rio blanco.
 
 
+
 ### Création d'un répertoire de mots techniques en français/espagnol pour faciliter la communication
 
 ![img_6693](https://user-images.githubusercontent.com/29283755/40724392-3d71cf30-6421-11e8-94a2-5a581d222fd2.JPG)
+
+
+### Création d'un moonboard d'inspiration
+
+
+Mise en commun, et discussion des références de chacun autour de l'idée du tapis
+Classification des références par technique de fabrication et création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
+
+* Volume/pompom
+* Modules/Assembler
+* Tressage
+* Serpentin/Masse
+* Découpe/Insertion
+* Entrelacs
+* Tissage
+* Couture/assemblé/pli
+* Forme/couleur
+* Broderie
+* Noeuds
+
 
 
 
