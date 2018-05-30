@@ -102,6 +102,9 @@ Démarrage de l'expérimentation pour chacun selon la technique de son choix et 
 * Anne-Sophie : tressage
 * Estelle : pompon
 
+![dsc_0045](https://user-images.githubusercontent.com/29283755/40726308-c0ff981a-6425-11e8-97ee-d0d21aa8d414.JPG)
+
+
 
 
 
