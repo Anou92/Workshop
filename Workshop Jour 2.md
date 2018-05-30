@@ -83,9 +83,9 @@ Mais quel forme de module choisir ?
 Nous sommes passé par l'étape du dessin pour mieux visualiser la répétition du modules à assembler. 
 
 Plusieurs formes de modules ont été proposés:
-la croix : formes ne s'emboitent pas bien car engendre des grands espaces vides qu'il faudrait combler à l'aide d'un autre tissu, pas pratique. 
-le triangle : bonne répétition et bon assemblage de la forme, triangle aussi utilisé dans les motifs guatémaltèques. Peut être forme trop commune.
-le losange : forme s'emboitent aussi bien, losange aussi utilisé dans les motifs guatémaltèques.
+* la croix : formes ne s'emboitent pas bien car engendre des grands espaces vides qu'il faudrait combler à l'aide d'un autre tissu, pas pratique. 
+* le triangle : bonne répétition et bon assemblage de la forme, triangle aussi utilisé dans les motifs guatémaltèques. Peut être forme trop commune.
+* le losange : forme s'emboitent aussi bien, losange aussi utilisé dans les motifs guatémaltèques.
 
 Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car  cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
 
