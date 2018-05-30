@@ -75,5 +75,19 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
   Puissance : 100% /
   Vitesse : 1300
 
+### Recherches formes tapis tressage
+
+En parallèle de notre recherche sur la question de la structure même du tressage, nous avons aussi réfléchi sur la forme du tapis dans l'objectif d'arriver à un premier grand prototype. Travaillant à partir de chutes de matières, nous avons été contraints d' exploiter l'idée de jonction de matières afin d'arriver à une surface plus grande surface. C'est pourquoi nous  avons choisi d'utiliser un même module de tressage que l'on répète et que l'on assemble selon nos envies.
+
+Mais quel forme de module choisir ?
+Nous sommes passé par l'étape du dessin pour mieux visualiser la répétition du modules à assembler. 
+
+Plusieurs formes de modules ont été proposés:
+la croix : formes ne s'emboitent pas bien car engendre des grands espaces vides qu'il faudrait combler à l'aide d'un autre tissu, pas pratique. 
+le triangle : bonne répétition et bon assemblage de la forme, triangle aussi utilisé dans les motifs guatémaltèques. Peut être forme trop commune.
+le losange : forme s'emboitent aussi bien, losange aussi utilisé dans les motifs guatémaltèques.
+
+Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car  cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
+
 
 
