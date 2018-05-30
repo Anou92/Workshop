@@ -94,13 +94,13 @@ Classification par couleur des différentes matières dans l'idée de mieux se r
 
 Démarrage de l'expérimentation pour chacun selon la technique de son choix et apprentissage pour Marta Lidia de la technique du point tapis 
 
-Marta Lidia : point tapis
-Emilie : tissage 
-Ariane : manipulation textile
-Anaelle : tissage, manipulation textile
-Tannyna : couture, création de fibres
-Anne-Sophie : tressage
-Estelle : pompon
+* Marta Lidia : point tapis
+* Emilie : tissage 
+* Ariane : manipulation textile
+* Anaelle : tissage, manipulation textile
+* Tannyna : couture, création de fibres
+* Anne-Sophie : tressage
+* Estelle : pompon
 
 
 
