@@ -122,7 +122,7 @@ Pour cela, nous sommes parti sur l'idée de créer une matière qui puisse réun
 
 ![img_6716](https://user-images.githubusercontent.com/29283755/40727608-8118d31c-6428-11e8-9b2c-9aae45c06e29.JPG)
 
-Recherche en tressage selctionnée
+Recherche en tressage sélectionnée
 
 ![img_6728](https://user-images.githubusercontent.com/29283755/40733887-17a2f750-6437-11e8-9063-bdbc6c5e5bcf.JPG)
 
