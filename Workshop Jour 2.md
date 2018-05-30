@@ -89,5 +89,20 @@ le losange : forme s'emboitent aussi bien, losange aussi utilisé dans les motif
 
 Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car  cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
 
+### Recherches combinaison de matière pour chaque module
+
+Parmi nos matières contrecollées, nous avons sélectionnées des duos de tissu à tresser ensemble pour avoir une cohérence au niveau de la gamme colorée.
+
+
+## Fabrication des modules de tressage:
+
+Apres avoir découpé les bandes au laser, chacun de nous a réalisé plusieurs losanges.
+L'objectif que nous sommes fixé : réaliser le plus de modules de tressage avec la matière disponible.Nous sommes arrivées à réaliser 9 losanges au total qui mesurent chacun 21x21cm
+
+
+
+
+
+
 
 
