@@ -78,6 +78,9 @@ Classification des références par technique de fabrication :
 
 Ensuite création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
 
+![img_6703](https://user-images.githubusercontent.com/29283755/40725061-c0cee0f6-6422-11e8-9755-6c3857baf45f.jpg)
+
+
 
 
 
