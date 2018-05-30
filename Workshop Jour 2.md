@@ -3,6 +3,11 @@
 
 ## Matin
 
+Nous avons commencé à découper à la main les tissus qui ont été préalablement contrecollés dans l'optique d'avoir une surface égalisée et homogène qui permettra de faciliter la découpe des bandes au laser. Nous avons choisi d'utiliser le laser dans le but de gagner en efficacité de production, en précision et régularité de découpe. 
+
+![img_6720](https://user-images.githubusercontent.com/29283755/40733120-3715e338-6435-11e8-837a-d697ea426083.JPG)
+
+
 ### Recherches autour de la bande
 
 Nous avons fait une recherche au niveau de la largeur de la bande à tresser. Plusieurs questions autour de la structure du tressage sont apparues : 
