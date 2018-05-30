@@ -37,9 +37,29 @@ Elle sait aussi faire du crochet.
 ![img_6705](https://user-images.githubusercontent.com/29283755/40723195-9ba0e8aa-641e-11e8-9125-908d0b4f55c3.jpg)
 
  
-### Les motifs traditionnels Guatémalthèque
+### Les motifs traditionnels Guatémalthèques
 
 Dans la culture Guatémaltèque, la nature est une réelle source d'inspiration. Elle est représentée par des oiseaux, des fleurs. Le zigzag, l'éclair, le triangle, les rayures et le losange sont aussi des motifs que l'on retrouve fortement dans les tissus du Guatemala. Les motifs se modernisent mais la symbolique reste la même.
+
+### Les matières
+
+Les textiles guatemalthèques sont tissés à partir de fils de coton produits au Guatemala.
+Il y a trois types de fils de coton :
+* rio blanco ( pour l'Europe, fil traité différemment pour une question de norme, plus cher)
+* cashmilon ( pas chère, pour le Guatemala, qualité inférieure, s'abîme facilement au lavage, pour la production de vêtement)
+* artisella ( pour la production de vêtements au Guatemala)
+
+Le commerce local s'est développé mais il s'adresse seulement aux touristes car les objets présentés sont trop cher pour être achetés par des locaux en raison de l'utilisation du rio blanco.
+
+
+### Création d'un répertoire de mots techniques en français/espagnol pour faciliter la communication
+
+
+
+
+
+
+
 
 
 
