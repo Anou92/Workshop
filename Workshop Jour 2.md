@@ -32,13 +32,14 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 ![img_6767](https://user-images.githubusercontent.com/29283755/40744073-bdc8c242-6453-11e8-99fa-d230ddb3b36e.jpg)
 
 
-
-
 ### Prototype 2
 
 Tressage de bandes de 2 cm et 2cm (3 de 2cm)
 Combinaison de 3 couleurs ( vert, orange, orange clair)
-Le tressage est bien dense, mais sa structure est moins dynamique..
+Le tressage est bien dense, mais sa structure est moins dynamique.
+
+![img_6761](https://user-images.githubusercontent.com/29283755/40733779-ccf3f90c-6436-11e8-9ae5-883d55f0d3f8.JPG)
+
 
 ### Prototype 3 
 
