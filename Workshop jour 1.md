@@ -18,10 +18,24 @@ Le workshop a débuté par une présentation des démarches des 7 designers text
 
 ### Présentation d'Aj Quen
 
-Marta Lidia travaille pour Aj Quen : une fédération d'artisane au Guatemala. Aj Quen signifie « le tisserand » en cakchiquel. Aj Quen  a été crée en 1989 et emploi 550 personnes, répartie en 18 groupes d'artisans. Les groupes sont composés de différentes communautés qui ont leur langues et leur traditions propres. Cette fédération est née suite au conflit armée et à une extrême pauvreté. Aj Quen permet aux femmes d'acquérir une autonomie économique et sociale en leur permettant par exemple de scolariser leur enfant. En 1992,Aj Quen débute sa collaboration avec Oxfam.
+Marta Lidia travaille pour Aj Quen : une fédération d'artisanes basé au Guatemala. Aj Quen signifie « le tisserand » en cakchiquel. Aj Quen  a été crée en 1989 et emploi 550 personnes, répartie en 18 groupes d'artisans. Les groupes sont composés de différentes communautés qui ont leur langues et leur traditions propres. Cette fédération est née suite au conflit armée et à une extrême pauvreté. Aj Quen permet aux femmes d'acquérir une autonomie économique et sociale en leur permettant par exemple de scolariser leur enfant. En 1992, Aj Quen débute sa collaboration avec Oxfam.
 
 
 <img width="482" alt="capture d ecran 2018-05-30 a 15 01 56" src="https://user-images.githubusercontent.com/29283755/40721813-df995b22-641a-11e8-952f-2a0f0b0b3be7.png">
+
+
+### Présentation des savoir-faire de Marta Lidia
+
+Le tissage est la technique de prédilection de Marta Lidia. C'est sa mère qui lui a transmis ce savoir-faire.
+Elle utilise deux types de métier à tisser :
+le métier ceinture
+le métier à  2 cadres et 2 pédales ( une personne débout qui lève les cadres et une autre personne qui appuie sur les pédales)
+
+Elle sait aussi faire du crochet.
+
+
+
+
 
 
 
