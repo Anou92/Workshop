@@ -34,6 +34,10 @@ le métier à  2 cadres et 2 pédales ( une personne débout qui lève les cadre
 Elle sait aussi faire du crochet.
 
 
+![img_6705](https://user-images.githubusercontent.com/29283755/40722439-a4ca3f1e-641c-11e8-9365-7aa7ef0e1949.JPG)
+
+
+
 
 
 
