@@ -29,6 +29,9 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 
 ![dsc_0314](https://user-images.githubusercontent.com/29283755/40733830-f12f2508-6436-11e8-98b0-ce740b471e21.JPG)
 
+![img_6767](https://user-images.githubusercontent.com/29283755/40744073-bdc8c242-6453-11e8-99fa-d230ddb3b36e.jpg)
+
+
 
 
 ### Prototype 2
