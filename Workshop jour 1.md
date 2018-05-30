@@ -54,6 +54,9 @@ Le commerce local s'est développé mais il s'adresse seulement aux touristes ca
 
 ### Création d'un répertoire de mots techniques en français/espagnol pour faciliter la communication
 
+![img_6693](https://user-images.githubusercontent.com/29283755/40724392-3d71cf30-6421-11e8-94a2-5a581d222fd2.JPG)
+
+
 
 
 
