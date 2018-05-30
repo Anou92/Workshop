@@ -85,9 +85,12 @@ Ensuite création d'un moonboard en sélectionnant les visuels les plus représe
 
 ## Après-midi
 
+### Mise en commun des matières d'Oxfam et Aj Quen
+
 Présentation des invendus textile d' Oxfam et d'Aj Quen entre les membres de Macocoi et Marta Lidia. Les vêtements d'Oxfam se composent de t-shirt, pantalon, pull et chemise et sont de couleurs différentes. Les chutes d'Aj Quen sont constituées de divers échantillons de tissage riches en couleurs et motifs. 
 Classification par couleur des différentes matières dans l'idée de mieux se repérer.
 
+### Début de l'expérimentation
 
 
 
