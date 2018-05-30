@@ -126,4 +126,7 @@ Pour cela, nous sommes parti sur l'idée de créer une matière qui puisse réun
 Nous avons sélectionné tous ensemble les duos de matières à contrecoller. ( Oxfam+Aj Quen)
 Notre combinaison des tissus s'est faite en fonction des couleurs et des motifs de chaque tissu.
 
+![dsc_0151](https://user-images.githubusercontent.com/29283755/40727989-6d9dd99e-6429-11e8-9440-f53b34a03383.JPG)
+
+
 
