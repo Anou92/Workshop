@@ -105,6 +105,37 @@ L'objectif que nous sommes fixé : réaliser le plus de modules de tressage avec
 
 ![img_6802](https://user-images.githubusercontent.com/29283755/40734547-0648e0d0-6439-11e8-90b2-72a08a029220.jpg)
 
+### Recherches couture 
+
+Nous avons aussi testé deux manières de coudre les losanges en tressage :
+* couture qui suit la forme du losange ( moins présente, souligne la forme du tressage, moins solide  )
+* couture qui suit la forme du losange et qui suit les lignes internes du losange ( couture plus présente, plus de solidité, la couture créé un nouveau motif)
+
+Nous avons choisi d'alterner les 2 types de couture pour créer un jeu de composition.
+
+### Recherches fil
+
+Nous avons testé deux type de fils :
+* un fil coloré qui reprend une des couleur du tressage et ainsi qui s'harmonise bien avec le tout
+* un fil argenté mêlé a un fil gris pour gagner en robustesse. Ce fil contraste avec les couleurs de tressage et donne de la dynamique et de la fraicheur à la matière.
+
+Nous avons choisi d'utiliser le fil argenté car il est aussi utilisé dans les textiles du Guatemala ( châle, écharpe)
+
+
+### Recherches système d'accroche module tresssage
+
+Apres avoir réalisée tout les losanges, nous avons commencé à penser à la manière de les agencer. Nous avons essayer de les rassembler en cherchant à avoir une gamme de couleur homogène. La tâche à été compliquée car certain losanges étaient bien différents de la gamme principale. La prochaine fois il faudra mieux anticiper, et définir une gamme de couleur commune pour avoir une meilleur harmonie de couleur.
+
+Dans un deuxième temps nous avons du penser au mode d'assemblage. Nous avons rencontrés quelque difficultés à cette étape car le mode d'assemblage n'a pas été pensé en amont.
+
+Nous avons testé plusieurs principes d'assemblage :
+relier les losanges par une couture en zigzag ( problème de finition)
+assembler les losanges à l'aide d'une bande de jonction qui démarque chaque module ( les losanges sont trop démarqués et se mélangent moins)
+relier les losanges à l'aide d'un système de bandes tressées ( le système d'attache s'intègre bien à la matière)
+
+Nous avons donc choisi le système d'attache qui utilise une bande que l'on vient tresser pour rassembler deux losanges car il s'intègre bien à l'ensemble.
+
+
 
 
 
