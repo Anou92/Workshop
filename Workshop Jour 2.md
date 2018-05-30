@@ -3,6 +3,8 @@
 
 ## Matin
 
+### Préparation des matières
+
 Découpage à la main des tissus contrecollés dans l'optique d'avoir une surface égalisée et homogène qui permettra de faciliter la découpe des bandes au laser. Nous avons choisi d'utiliser le laser dans le but de gagner en efficacité de production, en précision et régularité de découpe. 
 
 ![img_6720](https://user-images.githubusercontent.com/29283755/40733120-3715e338-6435-11e8-837a-d697ea426083.JPG)
@@ -49,4 +51,29 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 * Nous avons sélectionné cette combinaison de taille de bandes
 
 ![img_6728](https://user-images.githubusercontent.com/29283755/40733887-17a2f750-6437-11e8-9063-bdbc6c5e5bcf.JPG)
+
+### Réglages laser
+
+Matière : coton
+Taille : 52x50cm
+Epaisseur : 2mm
+Temps : 14 min
+Puissance : 100%
+Vitesse :1600
+
+Matière : coton
+Taille : 10,5x22cm
+Epaisseur : 3 mm
+Temps : 12min
+Puissance : 100%
+Vitesse : 1300
+
+Matière : coton
+Taille : 103x 44cm
+Epaisseur : 5 mm
+Temps : 22min
+Puissance : 100%
+Vitesse : 1300
+
+
 
