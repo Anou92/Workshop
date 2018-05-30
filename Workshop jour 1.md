@@ -104,8 +104,10 @@ Démarrage de l'expérimentation pour chacun selon la technique de son choix et 
 
 ![dsc_0117](https://user-images.githubusercontent.com/29283755/40727086-65fd505e-6427-11e8-9179-4c22b507257c.JPG)
 
-
 ![dsc_0045](https://user-images.githubusercontent.com/29283755/40726308-c0ff981a-6425-11e8-97ee-d0d21aa8d414.JPG)
+
+![dsc_0046](https://user-images.githubusercontent.com/29283755/40727111-78d5c0da-6427-11e8-8bec-617b1f9f36db.JPG)
+
 
 
 
