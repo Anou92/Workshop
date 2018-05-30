@@ -80,7 +80,8 @@ Ensuite création d'un moonboard en sélectionnant les visuels les plus représe
 
 ![img_6703](https://user-images.githubusercontent.com/29283755/40725061-c0cee0f6-6422-11e8-9755-6c3857baf45f.jpg)
 
-![img_6707](https://user-images.githubusercontent.com/29283755/40725308-5f5e5ff8-6423-11e8-9c41-1075db1a783f.jpg)
+![dsc_0153](https://user-images.githubusercontent.com/29283755/40732799-66e4b586-6434-11e8-8ba7-19f2311fe408.jpg)
+
 
 
 ## Après-midi
