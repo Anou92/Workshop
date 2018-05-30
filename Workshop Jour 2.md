@@ -47,3 +47,6 @@ Tressage de bandes de 2cm et 1,5cm.( 2 de 1,5cm et 1 de 2cm)
 Combinaison de 3 couleurs (rose, bleu foncé, bleu clair)
 Le tressage est bien dense et sa composition est bien dynamique.
 Nous avons sélectionné cette combinaison de taille de bandes
+
+![img_6728](https://user-images.githubusercontent.com/29283755/40733887-17a2f750-6437-11e8-9063-bdbc6c5e5bcf.JPG)
+
