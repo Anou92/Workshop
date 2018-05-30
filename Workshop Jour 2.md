@@ -137,6 +137,9 @@ Nous avons donc choisi le système d'attache qui utilise une bande que l'on vien
 
 ![img_6827](https://user-images.githubusercontent.com/29283755/40734960-39b6d6a6-643a-11e8-80a8-606e59ec9d4c.JPG)
 
+![img_6816](https://user-images.githubusercontent.com/29283755/40734869-f20eb620-6439-11e8-9f86-1cf82e167ef7.JPG)
+
+
 
 ### Prototype final
 
