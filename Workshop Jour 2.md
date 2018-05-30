@@ -129,9 +129,9 @@ Apres avoir réalisée tout les losanges, nous avons commencé à penser à la m
 Dans un deuxième temps nous avons du penser au mode d'assemblage. Nous avons rencontrés quelque difficultés à cette étape car le mode d'assemblage n'a pas été pensé en amont.
 
 Nous avons testé plusieurs principes d'assemblage :
-relier les losanges par une couture en zigzag ( problème de finition)
+* relier les losanges par une couture en zigzag ( problème de finition)
 assembler les losanges à l'aide d'une bande de jonction qui démarque chaque module ( les losanges sont trop démarqués et se mélangent moins)
-relier les losanges à l'aide d'un système de bandes tressées ( le système d'attache s'intègre bien à la matière)
+* relier les losanges à l'aide d'un système de bandes tressées ( le système d'attache s'intègre bien à la matière)
 
 Nous avons donc choisi le système d'attache qui utilise une bande que l'on vient tresser pour rassembler deux losanges car il s'intègre bien à l'ensemble.
 
