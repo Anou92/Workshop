@@ -1,7 +1,5 @@
 # Workshop Aj Quen et Macocoi
 
-![img_6668](https://user-images.githubusercontent.com/29283755/40687655-ac1839aa-639b-11e8-9843-90afea67f69e.JPG)
-
 
 ## Présentation
 
