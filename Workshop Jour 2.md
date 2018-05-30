@@ -3,7 +3,7 @@
 
 ## Matin
 
-Nous avons commencé à découper à la main les tissus qui ont été préalablement contrecollés dans l'optique d'avoir une surface égalisée et homogène qui permettra de faciliter la découpe des bandes au laser. Nous avons choisi d'utiliser le laser dans le but de gagner en efficacité de production, en précision et régularité de découpe. 
+Découpage à la main des tissus contrecollés dans l'optique d'avoir une surface égalisée et homogène qui permettra de faciliter la découpe des bandes au laser. Nous avons choisi d'utiliser le laser dans le but de gagner en efficacité de production, en précision et régularité de découpe. 
 
 ![img_6720](https://user-images.githubusercontent.com/29283755/40733120-3715e338-6435-11e8-837a-d697ea426083.JPG)
 
@@ -16,7 +16,8 @@ Nous avons fait une recherche au niveau de la largeur de la bande à tresser. Pl
 * Des bandes rectangulaires ou des bandes arrondies ? 
 * Les arrondies sur toute la bande ou bien seulement aux extrémitées?
 
-Nous sommes parti des mesures de l'échantillon de tressage réalisé la veille car il proposait de bonnes proportions. Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de possibilités. Ensuite nous avons découpé au laser une série de bandes rectangulaires et arrondies de 1cm,1,5cm et 2 cm pour pouvoir ensuite réaliser plusieurs tests de prototype.
+Nous sommes parti des mesures de l'échantillon de tressage réalisé la veille car il proposait de bonnes proportions. 
+Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de possibilités. Ensuite nous avons découpé au laser une série de bandes rectangulaires et arrondies de 1cm,1,5cm et 2 cm pour pouvoir ensuite réaliser plusieurs tests de prototype.
 
 
 ### Prototype 1
@@ -25,6 +26,8 @@ Nous sommes parti des mesures de l'échantillon de tressage réalisé la veille 
 * Combinaison de deux couleurs (orange et bleu)
 * Nous avons pu observer que les bandes de 1 cm sont trop fines et le tressage est trop aéré.
 * D'autre part jouer avec 2 largeur de bandes permet de créer un jeu graphique.
+
+
 
 ### Prototype 2
 
