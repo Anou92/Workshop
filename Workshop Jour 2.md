@@ -101,6 +101,9 @@ L'objectif que nous sommes fixé : réaliser le plus de modules de tressage avec
 
 ![img_6775](https://user-images.githubusercontent.com/29283755/40734452-c56c54ca-6438-11e8-90d3-76084898651c.JPG)
 
+![img_6796](https://user-images.githubusercontent.com/29283755/40734622-4161182c-6439-11e8-8227-061c22b2a1c5.jpg)
+
+
 
 
 
