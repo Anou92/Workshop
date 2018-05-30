@@ -89,7 +89,7 @@ Plusieurs formes de modules ont été proposés:
 
 Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car  cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
 
-### Recherches combinaison de matière pour chaque module
+### Recherches combinaison de couleurs pour chaque module
 
 Parmi nos matières contrecollées, nous avons sélectionnées des duos de tissu à tresser ensemble pour avoir une cohérence au niveau de la gamme colorée.
 
@@ -135,6 +135,7 @@ assembler les losanges à l'aide d'une bande de jonction qui démarque chaque mo
 
 Nous avons donc choisi le système d'attache qui utilise une bande que l'on vient tresser pour rassembler deux losanges car il s'intègre bien à l'ensemble.
 
+### Prototype final
 
 
 
