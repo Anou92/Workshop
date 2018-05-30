@@ -36,11 +36,10 @@ Elle sait aussi faire du crochet.
 
 ![img_6705](https://user-images.githubusercontent.com/29283755/40723195-9ba0e8aa-641e-11e8-9125-908d0b4f55c3.jpg)
 
+ 
+### Les motifs traditionnels Guatémalthèque
 
-
-
-
-
+Dans la culture Guatémaltèque, la nature est une réelle source d'inspiration. Elle est représentée par des oiseaux, des fleurs. Le zigzag, l'éclair, le triangle, les rayures et le losange sont aussi des motifs que l'on retrouve fortement dans les tissus du Guatemala. Les motifs se modernisent mais la symbolique reste la même.
 
 
 
