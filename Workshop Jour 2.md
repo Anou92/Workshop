@@ -54,26 +54,26 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 
 ### Réglages laser
 
-* Matière : coton
-* Taille : 52x50cm
-* Epaisseur : 2mm
-* Temps : 14 min
-* Puissance : 100%
-* Vitesse :1600
+ Matière : coton
+ Taille : 52x50cm
+ Epaisseur : 2mm
+ Temps : 14 min
+ Puissance : 100%
+ Vitesse :1600
 
-* Matière : coton
-* Taille : 10,5x22cm
-* Epaisseur : 3 mm
-* Temps : 12min
-* Puissance : 100%
-* Vitesse : 1300
+  Matière : coton
+  Taille : 10,5x22cm
+  Epaisseur : 3 mm
+  Temps : 12min
+  Puissance : 100%
+  Vitesse : 1300
 
-* Matière : coton
-* Taille : 103x 44cm
-* Epaisseur : 5 mm
-* Temps : 22min
-* Puissance : 100%
-* Vitesse : 1300
+  Matière : coton
+  Taille : 103x 44cm
+  Epaisseur : 5 mm
+  Temps : 22min
+  Puissance : 100%
+  Vitesse : 1300
 
 
 
