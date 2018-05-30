@@ -76,9 +76,9 @@ Classification des références par technique de fabrication :
 * Broderie
 * Noeuds
 
-Ensuite création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
-
 ![img_6703](https://user-images.githubusercontent.com/29283755/40725061-c0cee0f6-6422-11e8-9755-6c3857baf45f.jpg)
+
+Ensuite création d'un moonboard en sélectionnant les visuels les plus représentatifs pour chaque technique.
 
 ![dsc_0153](https://user-images.githubusercontent.com/29283755/40732799-66e4b586-6434-11e8-8ba7-19f2311fe408.jpg)
 
@@ -114,6 +114,7 @@ Démarrage de l'expérimentation pour chacun selon la technique de son choix et 
 
 Echange et discussion autour des expérimentations de chacun.
 Choix d'une expérimentation à développer en plus grand et de manière collective.
+
 La recherche en tressage à été choisi pour son jeu entre le recto et le verso de la matière. Pour cela, deux couches de tissu on été thermocollé ensemble afin de gagner en rigidité et ainsi d'avoir plus de tenu dans le textile. Ainsi, la matière n'a pas d'envers ni d'endroit, chaque côté à sa propre singularité. Cette recherche en tressage combine deux types de largeurs de bande ( 1,5cm et 2cm) et crée ainsi une dynamique dans la structure.L'échantillon contient 1 trame de bandes de 2 cm et 2 trames de bandes de 1,5cm qui sont tissées à 45°. Le tressage instaure aussi tout un jeu visuel en combinant trois couleurs différentes ( rose, bleu foncé, bleu clair). 
 
 Nous avons donc choisi de continuer notre recherche en travaillant l'idée de la bande recto verso.
