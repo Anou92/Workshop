@@ -118,7 +118,7 @@ La recherche en tressage à été choisi pour son jeu entre le recto et le verso
 Nous avons donc choisi de continuer notre recherche en travaillant l'idée de la bande recto verso.
 Pour cela, nous sommes parti sur l'idée de créer une matière qui puisse réunir les deux cultures. C'est ainsi que nous eu l'idée de contrecoller le tissu guatémaltèque aux vêtements d'Oxfam dans l'optique de proposer une interprétation plus contemporaine.
 
-
+![img_6716](https://user-images.githubusercontent.com/29283755/40727608-8118d31c-6428-11e8-9b2c-9aae45c06e29.JPG)
 
 
 
