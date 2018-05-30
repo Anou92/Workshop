@@ -136,6 +136,9 @@ Notre combinaison des tissus s'est faite en fonction des couleurs et des motifs 
 
 ![img_6759](https://user-images.githubusercontent.com/29283755/40732213-1c0fe0b8-6433-11e8-9803-58470d77923e.JPG)
 
+![dsc_0237](https://user-images.githubusercontent.com/29283755/40732946-d5faa89a-6434-11e8-8a29-aee7a94ff5e3.JPG)
+
+
 
 
 
