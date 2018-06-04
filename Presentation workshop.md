@@ -1,13 +1,13 @@
-# Workshop Aj Quen et Macocoi
+# Workshop Aj Quen et Macocoï
 
 
 ## Présentation
 
-Suite à la venue d'Aj Quen dans le cadre de la journée partenaire d'Oxfam en mai 2018, un workshop de recherche par expérimentation à été imaginé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatelmathèque d'Aj Quen.
+Suite à la venue d'Aj Quen dans le cadre de la journée partenaire d'Oxfam en mai 2018, un workshop de recherche par expérimentation à été imaginé entre les designers textiles du collectif Macocoï et Martia Lidia une artisane guatémaltèque d'Aj Quen.
 
 Plusieurs questionnements sont apparus :
 
-Quelle collaboration envisageable entre artisans belges et guatelmatheques?
+Quelle collaboration envisageable entre artisans belges et guatemaltèques?
 Comment combiner nos différents savoir-faire artisanaux et technologiques dans l'optique de créer une matière hybride, mélangeant techniques modernes et traditionnelles ?
 Qu'est ce que les uns peuvent apporter aux autres ?
 Quelles sont les attentes de l'artisane textile?
@@ -15,7 +15,7 @@ Quelles sont les attentes de l'artisane textile?
 ## Les dates
 
 Le workshop s'est déroulé le 3 et 4 mai 2018.
-Le 5 mai nous avons exposé les résultats du workshop lors de la slow fashion fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et taxi.
+Le 5 mai nous avons exposé les résultats du workshop lors de la slow fashion fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et Taxis.
 
 ## Le lieu
 
@@ -48,7 +48,7 @@ L'artisan du cuir et traducteur à l'occasion du workshop :
 
 * Explorer les possibilités que peut apporter le numérique aux techniques artisanales et apporter une vision singulière.
 
-* Avoir une démarche éthique par le réemploi de matière d'Oxfam/ Aj Quen (upcycling/ design circulaire)
+* Avoir une démarche éthique par le réemploi de matières d'Oxfam/ Aj Quen (upcycling/ design circulaire)
 
 * Promouvoir l'artisanat équitable, la co-création via notre expérimentation commune par des expositions. (slow fashion day/ DIY day)
 
@@ -74,8 +74,8 @@ Tissage main et métier, point noué, découpe laser, techniques d'assemblage ( 
 - métier à tisser
 - métier ceinture
 - découpe laser
-- Cadre à tapisserie 
-- Machine à coudre
+- cadre à tapisserie 
+- machine à coudre
 
 ## Les matières
 
