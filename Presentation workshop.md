@@ -24,7 +24,7 @@ Le workshop à été réalisé au sein d'Openfab, un écosystème 100% indépend
 
 ## Les participants
 
-Les designeuses textiles membres du collectif Macocoï :
+Les designers textiles membres du collectif Macocoï :
 - Emilie Bouchez
 - Tannyna Kowalski
 - Anne-Sophie Muller
