@@ -15,7 +15,7 @@ Quelles sont les attentes de l'artisane textile?
 ## Les dates
 
 Le workshop s'est déroulé le 3 et 4 mai 2018.
-Le 5 mai nous avons exposé les résultats du workshop lors de la slow fashion fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et Taxis.
+Le 5 mai nous avons exposé les résultats du workshop lors de la Slow Fashion Fair, un évènement organisé par Oxfam et qui s'est déroulé à Tour et Taxis.
 
 ## Le lieu
 
