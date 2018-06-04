@@ -97,7 +97,7 @@ Parmi nos matières contrecollées, nous avons sélectionnées des duos de tissu
 ### Fabrication des modules de tressage
 
 Apres avoir découpé les bandes au laser, chacun de nous a réalisé plusieurs losanges.
-L'objectif que nous nous sommes fixées : réaliser le plus de modules de tressage en fonction de la matière disponible. Nous sommes parvenus à réaliser 9 losanges qui mesurent chacun 21x21cm
+L'objectif que nous nous sommes fixées : réaliser autant de modules de tressage que de matière disponible. Nous sommes parvenus à réaliser 9 losanges qui mesurent chacun 21x21cm
 
 ![img_6775](https://user-images.githubusercontent.com/29283755/40734452-c56c54ca-6438-11e8-90d3-76084898651c.JPG)
 
