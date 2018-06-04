@@ -45,10 +45,11 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
 
 ### Prototype 3 
 
-* Tressage de bandes de 2cm et 1,5cm.( 2 de 1,5cm et 1 de 2cm)
+* Tressage de bandes de 2cm et 1,5cm.(2 de 1,5cm et 1 de 2cm)
 * Combinaison de 3 couleurs (rose, bleu foncé, bleu clair)
 * Le tressage est bien dense et sa composition est bien dynamique.
-* Nous avons sélectionné cette combinaison de taille de bandes
+
+Nous avons sélectionné cette combinaison de taille de bandes
 
 ![img_6728](https://user-images.githubusercontent.com/29283755/40733887-17a2f750-6437-11e8-9063-bdbc6c5e5bcf.JPG)
 
@@ -75,21 +76,20 @@ Nous avons aussi rajouté une taille supplémentaire (1cm) pour avoir plus de po
   Puissance : 100% /
   Vitesse : 1300
 
-### Recherches formes tapis tressage
+### Recherches formes tapis 
 
-En parallèle de notre recherche sur la question de la structure même du tressage, nous avons aussi réfléchi sur la forme du tapis dans l'objectif d'arriver à un premier grand prototype. Travaillant à partir de chutes de matières, nous avons été contraints d' exploiter l'idée de jonction de matières afin d'arriver à une surface plus grande surface. C'est pourquoi nous  avons choisi d'utiliser un même module de tressage que l'on répète et que l'on assemble selon nos envies.
+En parallèle de notre recherche sur la question de la structure même du tressage, nous avons aussi réfléchi sur la forme du tapis dans l'objectif d'arriver à un premier grand prototype. Travaillant à partir de chutes de matières, nous avons été contraints d' exploiter l'idée de jonction de matières afin d'obtenir une surface plus grande. C'est pourquoi nous avons choisi d'utiliser un même module de tressage que l'on répète et que l'on assemble selon nos envies.
 
 Mais quel forme de module choisir ?
-Nous sommes passé par l'étape du dessin pour mieux visualiser la répétition du modules à assembler. 
 
-Plusieurs formes de modules ont été proposés:
+Plusieurs formes de modules ont été proposées:
 * la croix : formes ne s'emboitent pas bien car engendre des grands espaces vides qu'il faudrait combler à l'aide d'un autre tissu, pas pratique. 
 * le triangle : bonne répétition et bon assemblage de la forme, triangle aussi utilisé dans les motifs guatémaltèques. Peut être forme trop commune.
-* le losange : forme s'emboitent aussi bien, losange aussi utilisé dans les motifs guatémaltèques.
+* le losange : forme s'emboite aussi bien, losange aussi utilisé dans les motifs guatémaltèques.
 
-Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car  cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
+Nous avons décidé ensemble de partir sur l'idée du module de tressage en forme de losange car cette forme géométrique s'assemble bien et elle est aussi très présente dans la culture guatémaltèque
 
-### Recherches combinaison de couleurs pour chaque module
+### Recherches combinaison de couleurs 
 
 Parmi nos matières contrecollées, nous avons sélectionnées des duos de tissu à tresser ensemble pour avoir une cohérence au niveau de la gamme colorée.
 
@@ -97,7 +97,7 @@ Parmi nos matières contrecollées, nous avons sélectionnées des duos de tissu
 ### Fabrication des modules de tressage
 
 Apres avoir découpé les bandes au laser, chacun de nous a réalisé plusieurs losanges.
-L'objectif que nous sommes fixé : réaliser le plus de modules de tressage avec la matière disponible.Nous sommes arrivées à réaliser 9 losanges au total qui mesurent chacun 21x21cm
+L'objectif que nous nous sommes fixées : réaliser le plus de modules de tressage en fonction de la matière disponible. Nous sommes parvenus à réaliser 9 losanges qui mesurent chacun 21x21cm
 
 ![img_6775](https://user-images.githubusercontent.com/29283755/40734452-c56c54ca-6438-11e8-90d3-76084898651c.JPG)
 
@@ -107,9 +107,9 @@ L'objectif que nous sommes fixé : réaliser le plus de modules de tressage avec
 
 ### Recherches couture 
 
-Nous avons aussi testé deux manières de coudre les losanges en tressage :
-* couture qui suit la forme du losange ( moins présente, souligne la forme du tressage, moins solide  )
-* couture qui suit la forme du losange et qui suit les lignes internes du losange ( couture plus présente, plus de solidité, la couture créé un nouveau motif)
+Nous avons expérimenté deux manières de coudre les losanges en tressage :
+* couture qui suit la forme du losange (moins présente, souligne la forme du tressage, moins solide)
+* couture qui suit la forme du losange et qui suit les lignes internes du losange (couture plus présente, plus de solidité, la couture créé un nouveau motif)
 
 Nous avons choisi d'alterner les 2 types de couture pour créer un jeu de composition.
 
@@ -119,19 +119,21 @@ Nous avons testé deux type de fils :
 * un fil coloré qui reprend une des couleur du tressage et ainsi qui s'harmonise bien avec le tout
 * un fil argenté mêlé a un fil gris pour gagner en robustesse. Ce fil contraste avec les couleurs de tressage et donne de la dynamique et de la fraicheur à la matière.
 
-Nous avons choisi d'utiliser le fil argenté car il est aussi utilisé dans les textiles du Guatemala ( châle, écharpe)
+Nous avons choisi d'utiliser le fil argenté car il est aussi utilisé dans les textiles du Guatemala (châle, écharpe)
 
 
-### Recherches système d'accroche module tresssage
+### Recherches système d'accroche 
 
-Apres avoir réalisée tout les losanges, nous avons commencé à penser à la manière de les agencer. Nous avons essayer de les rassembler en cherchant à avoir une gamme de couleur homogène. La tâche à été compliquée car certain losanges étaient bien différents de la gamme principale. La prochaine fois il faudra mieux anticiper, et définir une gamme de couleur commune pour avoir une meilleur harmonie de couleur.
+Apres avoir réalisée tout les losanges, nous avons commencé à penser à la manière de les agencer. Nous avons essayer de les rassembler en cherchant à avoir une gamme de couleur homogène. La tâche à été compliquée car certain losanges étaient bien différents de la gamme principale. 
+
+Remarque : la prochaine fois il faudra mieux anticiper, et définir une gamme de couleur commune pour avoir une meilleur harmonie de couleur.
 
 Dans un deuxième temps nous avons du penser au mode d'assemblage. Nous avons rencontrés quelque difficultés à cette étape car le mode d'assemblage n'a pas été pensé en amont.
 
 Nous avons testé plusieurs principes d'assemblage :
-* relier les losanges par une couture en zigzag ( problème de finition)
-assembler les losanges à l'aide d'une bande de jonction qui démarque chaque module ( les losanges sont trop démarqués et se mélangent moins)
-* relier les losanges à l'aide d'un système de bandes tressées ( le système d'attache s'intègre bien à la matière)
+* relier les losanges par une couture en zigzag (problème de finition)
+* assembler les losanges à l'aide d'une bande de jonction qui démarque chaque module (les losanges sont trop démarqués et se mélangent moins)
+* relier les losanges à l'aide d'un système de bandes tressées (le système d'attache s'intègre bien à la matière)
 
 Nous avons donc choisi le système d'attache qui utilise une bande que l'on vient tresser pour rassembler deux losanges car il s'intègre bien à l'ensemble.
 
